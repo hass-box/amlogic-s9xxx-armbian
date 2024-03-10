@@ -108,7 +108,7 @@ rootfs_type="ext4"
 # Set Armbian OS type (server / desktop)
 os_type="server"
 # Set Armbian builder signature
-builder_name=""
+builder_name="hassbox"
 
 # Set font color
 STEPS="[\033[95m STEPS \033[0m]"
