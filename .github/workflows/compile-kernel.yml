@@ -60,7 +60,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -hassbox
 
 env:
   TZ: America/New_York
